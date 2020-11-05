@@ -9,6 +9,8 @@ A restaurant tripadvisor app using React Native and Firebase
 
 ### External modules
 
+- react-navigation
+
 ## Build node_modules
 
 In the project directory, run `npm install` or `npm i`
