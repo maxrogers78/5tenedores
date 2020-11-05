@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "A restaurant tripadvisor app using React Native and Firebase",
+    "githubUrl": "https://github.com/maxrogers78/5tenedores"
   }
 }
