@@ -10,6 +10,7 @@ A restaurant tripadvisor app using React Native and Firebase
 ### External modules
 
 - react-navigation
+- react-native-elements
 
 ## Build node_modules
 
